@@ -1,2 +1,2 @@
 # K.Fatch.Resume
-Website Resume for Kody Fatch
+Digital Resume for Kody N Fatch
